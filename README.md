@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 This is the official account of Kronobit Token Project. please visit us at www.kronobit.org 
 on twitter https://twitter.com/Kronobit1 
+
+Kronobit owns its Governance token under the modality of Bep8 Mini token contained in the Binance Smart Chain. The supply is 1,000,000 (one million tokens) which are a support within the project, at the same time they are used as investment and capitalization tokens
