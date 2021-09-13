@@ -1,5 +1,6 @@
 ![knblogo](https://user-images.githubusercontent.com/77468477/118854417-b7098800-b8a2-11eb-8308-5be9d69dd694.png)
-![kbflogo](https://ibb.co/6w1wFtC)
+![kbflogo](https://user-images.githubusercontent.com/77468477/133111769-2e23a442-c4ee-40a1-a884-3ad85eb6cc84.png)
+
 ### Hi there 👋
 
 <!--
@@ -20,4 +21,4 @@ This is the official account of Kronobit Token Project. please visit us at www.k
 on twitter https://twitter.com/Kronobit1 
 
 Kronobit owns its Governance token under the modality of Bep8 contained in the Binance Dex. ( https://www.binance.org/es/trade/mini/KNB-9D6M_BNB ),The supply is 1,000,000 (one million tokens), which are a support within the project, at the same time they are used as investment and capitalization tokens
-Also we have 145,000,000 BEP20 tokens to be listed on June 2021
+Also we have 145,000,000 BEP20 tokens to be listed on June 2021, KBF is our Defi Token Project
