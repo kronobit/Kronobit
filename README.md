@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is the official account of Kronobit Token Project. please visit us at www.kronobit.org 
-on twitter https://twitter.com/Kronobit1 
-
-Kronobit owns its Governance token under the modality of Bep8 contained in the Binance Dex. ( https://www.binance.org/es/trade/mini/KNB-9D6M_BNB ),The supply is 1,000,000 (one million tokens), which are a support within the project, at the same time they are used as investment and capitalization tokens
-Also we have 145,000,000 BEP20 tokens to be listed on June 2021, KBF is the new KNBfinance Defi native token ( www.knbfinance.org ) 
+Our official new Github account is https://github.com/QbitNetworks/go-ethereum
+please go there to read all information 
